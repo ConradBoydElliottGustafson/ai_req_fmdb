@@ -6,6 +6,7 @@
             "prompt": "Generate a uml class diagram for a simple customer management application."
         }
     ],
+    "format_file": "",
     "output_directory": "output",
     "max_tokens": 4096,
     "temperature": 0.3

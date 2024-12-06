@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+  <diagram name="Page-1" id="jva3ZIlg37BISjTX_MBA">
+    <mxGraphModel dx="1426" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="form1" value="Form" style="shape=swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="810" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="messages" value="Messages" style="shape=note;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="companyCodeLabel" value="Company Code" style="shape=label;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="companyCodeDropdown" value="Company Code Dropdown" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="companyCodeDescriptionLabel" value="Company Code Description" style="shape=label;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="companyCodeDescriptionInput" value="Company Code Description Input" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="240" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="activeCheckboxLabel" value="Active" style="shape=label;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="activeCheckbox" value="Active Checkbox" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lastModifiedLabel" value="Last Modified:" style="shape=label;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lastModifiedText" value="Last Modified Text" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="modifiedByLabel" value="Modified By:" style="shape=label;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="modifiedByText" value="Modified By Text" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="540" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="addButton" value="Add Button" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="20" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="updateButton" value="Update Button" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="140" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="clearLink" value="Clear Link" style="shape=rectangle;" vertex="1" parent="form1">
+          <mxGeometry x="260" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
