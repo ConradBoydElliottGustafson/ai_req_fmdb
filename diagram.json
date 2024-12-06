@@ -6,7 +6,6 @@
             "prompt": "Generate a uml class diagram for a simple customer management application."
         }
     ],
-    "format_file": "C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\format\\Untitled Diagram.drawio",
     "output_directory": "output",
     "max_tokens": 4096,
     "temperature": 0.3
