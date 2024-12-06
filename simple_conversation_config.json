@@ -1,20 +1,18 @@
 {
-    "id": "multiple_files_same_prompt_files_config",
-    "system_prompt": "You are a helpful assistant. You know all about JSF XHTML files and HTML.",
-    "user_prompts": [
-        {
-            "prompt": "I'm going to give you the contents of a JSF XHTML file. Describe the function of the page. List all the business rules derivable from the code. Describe the business rules or validation logic in detail.List all the form controls (editable and clickable UI components) on the JSP page, include and business rules or validation logic for each of these components. Include all interactable components as part of form controls. This includes dropdowns, text inputs, buttons, checkboxes, scroll bars, labels, etc. If the component has an action associated with it, include it in the \"action\" attribute. If a component calls a javascipt function, include the name of the javascript function in the \"javascript\" attribute."
-        },
-        {
-            "prompt": "I also want you find any data tables and descibe the individual data columns. For each column, tell me display name, whether or not it is mandatory, the type (if the column contains a form control), the display label, the display type, the Visibility, and any constraints on the data entry mechanism."
-        },
-        {
-            "prompt": "Refer to the format file contents I sent you at the very beginning. Follow the same format when generating the document. Make sure that all the field descriptions in form controls and table columns are listed in tables."
-        }
-    ],
-    "file": ["C:\\Users\\tammy.kim\\Documents\\moh-fmdb\\fmdb\\FMDB-war\\src\\main\\webapp\\pages\\admin\\CompanyType.xhtml"],
-    "format_file": "C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\format\\form_controls.md",
-    "output_directory": "output",
-    "max_tokens": 4096,
-    "temperature": 0.3
+  "id": "multiple_files_same_prompt_files_config",
+  "system_prompt": "You are a helpful assistant. You know all about JSF XHTML files and HTML. You know how to create a draw.io text file, and you know all about UML class diagrams.",
+  "user_prompts": [
+    {
+      "prompt": "I'm going to give you the contents of a JSF XHTML file. Include all interactable components as part of form controls. This includes dropdowns, text inputs, buttons, checkboxes, scroll bars, labels, etc."
+    },
+    {
+      "prompt": "Refer to the format file contents I sent you at the very beginning. Follow the same format when generating the document."
+    }
+  ],
+  "file": [ "C:\\Users\\tammy.kim\\Documents\\moh-fmdb\\fmdb\\FMDB-war\\src\\main\\webapp\\pages\\admin\\CompanyType.xhtml" ],
+  "format_file": "C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\format\\lofi_wireframe_example.drawio",
+
+  "output_directory": "output",
+  "max_tokens": 4096,
+  "temperature": 0.3
 }
