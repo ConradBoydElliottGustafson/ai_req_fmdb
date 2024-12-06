@@ -1,0 +1,7 @@
+{
+    "DAO": ["sampleNameDOA","samleName2DOA"],
+    "Action": ["exampleAction"],
+    "Form": ["exampleForm"],
+    "Helper": ["sampleConstants", "sampleNameUtils"],
+    "Other": ["otherFilenameFound"]
+}
