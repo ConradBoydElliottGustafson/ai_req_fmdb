@@ -1,0 +1,13 @@
+{
+    "id": "multiple_files_same_prompt_files_config",
+    "system_prompt": "You are a helpful assistant. You know how to create a draw.io text file, and you know all about UML class diagrams.",
+    "user_prompts": [
+        {
+            "prompt": "Generate a uml class diagram for a simple customer management application."
+        }
+    ],
+    "format_file": "C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\format\\Untitled Diagram.drawio",
+    "output_directory": "output",
+    "max_tokens": 4096,
+    "temperature": 0.3
+}

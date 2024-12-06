@@ -12,8 +12,8 @@
             "prompt": "Refer to the format file contents I sent you at the very beginning. Follow the same format when generating the document. Make sure that all the field descriptions in form controls and table columns are listed in tables."
         }
     ],
-    "file": ["C:\\Users\\c.gustafson\\repos\\moh-fmdb\\fmdb\\FMDB-war\\src\\main\\webapp\\pages\\admin\\CompanyType.xhtml"],
-    "format_file": "C:\\Users\\c.gustafson\\repos\\ai_req_fmdb\\format\\form_controls.md",
+    "file": ["C:\\Users\\tammy.kim\\Documents\\moh-fmdb\\fmdb\\FMDB-war\\src\\main\\webapp\\pages\\admin\\CompanyType.xhtml"],
+    "format_file": "C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\format\\form_controls.md",
     "output_directory": "output",
     "max_tokens": 4096,
     "temperature": 0.3
