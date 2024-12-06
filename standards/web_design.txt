@@ -16,8 +16,6 @@ If you do decide to use optional fields, make sure that it’s evident to the us
 
 Clearly mark any optional input fields
 
-Launch a career in ux design with our top-rated program
-Explore UX ACADEMY
 How to Determine a Hierarchy for Your Form Fields
 Here are a few considerations to help you figure out the best way to order your input fields.
 
@@ -194,5 +192,3 @@ Summary
 An effective form UI design doesn’t stop at visual aesthetics. Yes, there are components and design patterns that belong to the field of UI design. But at its core, every form must also include thoughtful UX copy, interaction design, and a holistic understanding of how the user will interact with the form.
 
 Using the fundamental principles listed in this article will help you deliver a delightful experience to users, which you can then test and revise as needed.
-
-Interested in learning more about the fundamentals of UX design? Check out our selection of UX/UI design courses, or dive straight into a new career with our intensive bootcamp UX Academy (the next cohort is starting soon!)

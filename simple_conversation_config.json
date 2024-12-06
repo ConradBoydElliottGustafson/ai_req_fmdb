@@ -1,9 +1,13 @@
 {
-  "id": "multiple_files_same_prompt_files_config",
+  "id": "company_type_drawio_config",
   "system_prompt": "You are a helpful assistant. You know all about JSF XHTML files and HTML. You know how to create a draw.io text file, and you know all about UML class diagrams.",
   "user_prompts": [
     {
       "prompt": "I'm going to give you the contents of a JSF XHTML file. Include all interactable components as part of form controls. This includes dropdowns, text inputs, buttons, checkboxes, scroll bars, labels, etc."
+    },
+    {
+        "prompt": "I'm going to give you the contents of website design standards. Please follow the provided standards when generating the document.",
+        "files": ["C:\\Users\\tammy.kim\\Documents\\ai_req_fmdb\\standards\\web_design.txt"]
     },
     {
       "prompt": "Refer to the format file contents I sent you at the very beginning. Follow the same format when generating the document."
